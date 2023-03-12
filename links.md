@@ -38,6 +38,16 @@ Pada masa sekarang file sharing sangat penting dan bermanfaat. Website ini menje
 3. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)
 Pada Linux, file TAR cukup populer. Website ini menjelaskan fungsi dan manfaatnya.
 
+## Week 04
+1. [File Concepts](https://notesformsc.org/file-concepts/#:~:text=A%20file%20is%20named%20collection,by%20its%20owner%20or%20creator.)
+Link ini sangat berguna jika ingin mengetahui mengenai *file concepts*. Saya sangat merekomendasikannya.
+
+2. [File Sharing](https://www.techtarget.com/searchmobilecomputing/definition/file-sharing)
+Pada masa sekarang file sharing sangat penting dan bermanfaat. Website ini menjelaskan tutorialnya dengan baik.
+
+
+3. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)
+Pada Linux, file TAR cukup populer. Website ini menjelaskan fungsi dan manfaatnya.
 
 
 <br>
