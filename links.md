@@ -50,5 +50,33 @@ Pada masa sekarang file sharing sangat penting dan bermanfaat. Website ini menje
 Pada Linux, file TAR cukup populer. Website ini menjelaskan fungsi dan manfaatnya.
 
 
+3. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)
+Pada Linux, file TAR cukup populer. Website ini menjelaskan fungsi dan manfaatnya.
+
+## Week 07
+1. [Security Problem]
+System secure if resources used and accessed as intended under all circumstances
+Unachievable
+Intruders (crackers) attempt to breach security
+Threat is potential security violation
+Attack is attempt to breach security
+Attack can be accidental or malicious
+Easier to protect against accidental than malicious misuse
+![image](https://user-images.githubusercontent.com/97381822/232327441-11c94698-f937-435d-9742-c3416b1f4350.png)
+
+2. [Program Threats]
+Many variations, many names
+Trojan Horse
+Code segment that misuses its environment
+Exploits mechanisms for allowing programs written by users to be executed by other users
+Spyware, pop-up browser windows, covert channels
+Up to 80% of spam delivered by spyware-infected systems
+Trap Door
+Specific user identifier or password that circumvents normal security procedures
+Could be included in a compiler
+How to detect them?
+![image](https://user-images.githubusercontent.com/97381822/232327497-2c063e60-f757-4565-8561-0e00b5f3cd12.png)
+
+
 <br>
 <hr>
